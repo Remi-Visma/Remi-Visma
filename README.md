@@ -10,5 +10,3 @@ In addition to working with infrastructure in Tripletex I’m the leader of a mo
 ### :bar_chart: Stats
 ![Rémi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Remi-Visma&show_icons=true&theme=great-gatsby)
 
-### 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r%C3%A9mi-n%C3%A6ss/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Remi-Visma) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:remi.naess@visma.com)
